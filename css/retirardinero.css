@@ -1,0 +1,59 @@
+body {
+    height: 600px;
+    width: auto;
+    background-image: url("../img/annie-spratt-BJ3g2Ck2WfE-unsplash.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+  .logo {
+    width: 260px;
+    height: auto;
+    position: relative;
+    display: block;
+    margin: auto;
+
+  }
+
+  .bienvenido {
+  
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(235, 242, 255);
+    font-weight: bolder;
+    font-size: 30px;
+  }
+
+
+  .podras {
+ 
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(210, 225, 255);
+    font-size: 20px;
+  }
+
+  .fcc-btn {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-image: url("../img/color.jpg");
+  }
+  
+  .saldo {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(140, 179, 255);
+    font-size: 20px;
+  }
+
+  .boton {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: rgb(84, 93, 216);
+  }

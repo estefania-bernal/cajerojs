@@ -1,0 +1,59 @@
+body {
+    height: 600px;
+    width: auto;
+    background-image: url("../img/ales-nesetril-ex_p4AaBxbs-unsplash.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+  .logo {
+    width: 260px;
+    height: auto;
+    position: relative;
+    display: block;
+    margin: auto;
+
+  }
+
+  .bienvenido {
+  
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(214, 228, 255);
+    font-weight: bolder;
+    font-size: 30px;
+  }
+
+
+  .podras {
+ 
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(185, 209, 255);
+    font-size: 20px;
+  }
+
+  .fcc-btn {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-image: url("../img/color.jpg");
+  }
+  
+  .saldo {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(11, 54, 141);
+    font-size: 20px;
+  }
+
+  .boton {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: rgb(163, 170, 255);
+  }

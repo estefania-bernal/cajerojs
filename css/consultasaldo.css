@@ -1,0 +1,63 @@
+body {
+    height: 600px;
+    width: auto;
+    background-image: url("../img/visual-stories-micheile-ZVprbBmT8QA-unsplash.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+  .logo {
+    width: 260px;
+    height: auto;
+    position: relative;
+    display: block;
+    margin: auto;
+
+  }
+
+  .bienvenido {
+  
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(8, 29, 71);
+    font-weight: bolder;
+    font-size: 30px;
+  }
+
+
+  .podras {
+ 
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(6, 22, 53);
+    font-size: 20px;
+  }
+
+  .fcc-btn {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-image: url("../img/color.jpg");
+  }
+  
+  .saldo {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(4, 17, 43);
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  .boton {
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: rgb(5, 9, 66);
+  }
+
+
+
